@@ -1,0 +1,57 @@
+c:\users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+c:\users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+c:\users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+c:\users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+c:\users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+c:\users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+c:\users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+c:\users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+c:\users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaskManager.resources
+C:\Users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\mkcuong\documents\visual studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\mkcuong\Documents\Visual Studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BUL.dll
+C:\Users\mkcuong\Documents\Visual Studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.dll
+C:\Users\mkcuong\Documents\Visual Studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAO.dll
+C:\Users\mkcuong\Documents\Visual Studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BUL.pdb
+C:\Users\mkcuong\Documents\Visual Studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.pdb
+C:\Users\mkcuong\Documents\Visual Studio 2015\Projects\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAO.pdb
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BUL.dll
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.dll
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAO.dll
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BUL.pdb
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.pdb
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAO.pdb
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaskManager.resources
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\mkcuong\OneDrive\SourceCSharp\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.pdb
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BUL.dll
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.dll
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAO.dll
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\BUL.pdb
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DTO.pdb
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\DAO.pdb
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csprojResolveAssemblyReference.cache
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAccountProfile.resources
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fAdmin.resources
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fLogin.resources
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.fTaskManager.resources
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.Properties.Resources.resources
+C:\Users\LeMinh\Downloads\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.csproj.GenerateResource.Cache
+C:\Users\LeMinh\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\QuanLyQuanCafe.exe.config
+C:\Users\LeMinh\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.exe
+C:\Users\LeMinh\Desktop\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\QuanLyQuanCafe.pdb
