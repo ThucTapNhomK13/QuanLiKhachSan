@@ -69,3 +69,21 @@ CREATE TABLE BillInfo
 	FOREIGN KEY (idServiceRoom) REFERENCES dbo.ServiceRoom(id)
 )
 GO
+
+CREATE PROC USP_GetAccountByUserName
+@userName nvarchar(100)
+AS 
+BEGIN
+	SELECT * FROM dbo.Account WHERE id = @userName
+END
+GO
+
+CREATE PROC USP_Login
+@userName nvarchar(100), @passWord nvarchar(100)
+AS
+BEGIN
+	SELECT * FROM dbo.Account WHERE id = @userName AND PassWord = @passWord
+END
+GO
+
+Update Bill set status=1, discount = 1 where id =1
