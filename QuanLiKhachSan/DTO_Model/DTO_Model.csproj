@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{1927B59E-D4B6-4FB9-8F20-809723092950}</ProjectGuid>
+=======
+    <ProjectGuid>{30D1A71C-C185-4D8F-8BEF-608405F1AD87}</ProjectGuid>
+>>>>>>> origin/master
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DTO_Model</RootNamespace>

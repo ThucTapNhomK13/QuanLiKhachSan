@@ -138,7 +138,11 @@
             this.txtPayments.SelectionStart = 0;
             this.txtPayments.ShortcutsEnabled = true;
             this.txtPayments.Size = new System.Drawing.Size(154, 23);
+<<<<<<< HEAD
             this.txtPayments.TabIndex = 1;
+=======
+            this.txtPayments.TabIndex = 0;
+>>>>>>> origin/master
             this.txtPayments.UseSelectable = true;
             this.txtPayments.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtPayments.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -177,7 +181,11 @@
             this.txtPay.SelectionStart = 0;
             this.txtPay.ShortcutsEnabled = true;
             this.txtPay.Size = new System.Drawing.Size(154, 23);
+<<<<<<< HEAD
             this.txtPay.TabIndex = 2;
+=======
+            this.txtPay.TabIndex = 0;
+>>>>>>> origin/master
             this.txtPay.UseSelectable = true;
             this.txtPay.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtPay.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -216,7 +224,11 @@
             this.txtIdStaff.SelectionStart = 0;
             this.txtIdStaff.ShortcutsEnabled = true;
             this.txtIdStaff.Size = new System.Drawing.Size(200, 23);
+<<<<<<< HEAD
             this.txtIdStaff.TabIndex = 3;
+=======
+            this.txtIdStaff.TabIndex = 0;
+>>>>>>> origin/master
             this.txtIdStaff.UseSelectable = true;
             this.txtIdStaff.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtIdStaff.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -255,7 +267,11 @@
             this.txtStatus.SelectionStart = 0;
             this.txtStatus.ShortcutsEnabled = true;
             this.txtStatus.Size = new System.Drawing.Size(200, 23);
+<<<<<<< HEAD
             this.txtStatus.TabIndex = 5;
+=======
+            this.txtStatus.TabIndex = 0;
+>>>>>>> origin/master
             this.txtStatus.UseSelectable = true;
             this.txtStatus.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtStatus.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -265,7 +281,11 @@
             this.metroLabel5.AutoSize = true;
             this.metroLabel5.Location = new System.Drawing.Point(428, 191);
             this.metroLabel5.Name = "metroLabel5";
+<<<<<<< HEAD
             this.metroLabel5.Size = new System.Drawing.Size(66, 19);
+=======
+            this.metroLabel5.Size = new System.Drawing.Size(68, 19);
+>>>>>>> origin/master
             this.metroLabel5.TabIndex = 1;
             this.metroLabel5.Text = "Trạng thái";
             // 

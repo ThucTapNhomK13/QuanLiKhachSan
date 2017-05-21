@@ -128,7 +128,11 @@
             this.txtClassroomId.SelectionStart = 0;
             this.txtClassroomId.ShortcutsEnabled = true;
             this.txtClassroomId.Size = new System.Drawing.Size(165, 23);
+<<<<<<< HEAD
             this.txtClassroomId.TabIndex = 3;
+=======
+            this.txtClassroomId.TabIndex = 1;
+>>>>>>> origin/master
             this.txtClassroomId.UseSelectable = true;
             this.txtClassroomId.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtClassroomId.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -187,7 +191,11 @@
             this.rdbFemale.Location = new System.Drawing.Point(673, 175);
             this.rdbFemale.Name = "rdbFemale";
             this.rdbFemale.Size = new System.Drawing.Size(39, 15);
+<<<<<<< HEAD
             this.rdbFemale.TabIndex = 8;
+=======
+            this.rdbFemale.TabIndex = 6;
+>>>>>>> origin/master
             this.rdbFemale.Text = "Nữ";
             this.rdbFemale.UseSelectable = true;
             // 
@@ -197,7 +205,11 @@
             this.rdbMale.Location = new System.Drawing.Point(561, 175);
             this.rdbMale.Name = "rdbMale";
             this.rdbMale.Size = new System.Drawing.Size(49, 15);
+<<<<<<< HEAD
             this.rdbMale.TabIndex = 7;
+=======
+            this.rdbMale.TabIndex = 5;
+>>>>>>> origin/master
             this.rdbMale.Text = "Nam";
             this.rdbMale.UseSelectable = true;
             // 
@@ -235,7 +247,11 @@
             this.txtName.SelectionStart = 0;
             this.txtName.ShortcutsEnabled = true;
             this.txtName.Size = new System.Drawing.Size(180, 23);
+<<<<<<< HEAD
             this.txtName.TabIndex = 0;
+=======
+            this.txtName.TabIndex = 7;
+>>>>>>> origin/master
             this.txtName.UseSelectable = true;
             this.txtName.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtName.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -265,7 +281,11 @@
             this.txtPeopleId.SelectionStart = 0;
             this.txtPeopleId.ShortcutsEnabled = true;
             this.txtPeopleId.Size = new System.Drawing.Size(180, 23);
+<<<<<<< HEAD
             this.txtPeopleId.TabIndex = 2;
+=======
+            this.txtPeopleId.TabIndex = 8;
+>>>>>>> origin/master
             this.txtPeopleId.UseSelectable = true;
             this.txtPeopleId.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtPeopleId.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -325,7 +345,11 @@
             this.txtTel.SelectionStart = 0;
             this.txtTel.ShortcutsEnabled = true;
             this.txtTel.Size = new System.Drawing.Size(165, 23);
+<<<<<<< HEAD
             this.txtTel.TabIndex = 1;
+=======
+            this.txtTel.TabIndex = 10;
+>>>>>>> origin/master
             this.txtTel.UseSelectable = true;
             this.txtTel.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtTel.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -337,7 +361,11 @@
             this.dtpGiveBack.MinimumSize = new System.Drawing.Size(0, 29);
             this.dtpGiveBack.Name = "dtpGiveBack";
             this.dtpGiveBack.Size = new System.Drawing.Size(180, 29);
+<<<<<<< HEAD
             this.dtpGiveBack.TabIndex = 5;
+=======
+            this.dtpGiveBack.TabIndex = 11;
+>>>>>>> origin/master
             // 
             // dtpOrder
             // 
@@ -346,7 +374,11 @@
             this.dtpOrder.MinimumSize = new System.Drawing.Size(0, 29);
             this.dtpOrder.Name = "dtpOrder";
             this.dtpOrder.Size = new System.Drawing.Size(180, 29);
+<<<<<<< HEAD
             this.dtpOrder.TabIndex = 4;
+=======
+            this.dtpOrder.TabIndex = 13;
+>>>>>>> origin/master
             // 
             // metroLabel9
             // 
@@ -381,7 +413,11 @@
             this.cmbService.Location = new System.Drawing.Point(561, 263);
             this.cmbService.Name = "cmbService";
             this.cmbService.Size = new System.Drawing.Size(165, 21);
+<<<<<<< HEAD
             this.cmbService.TabIndex = 10;
+=======
+            this.cmbService.TabIndex = 14;
+>>>>>>> origin/master
             // 
             // cmbServiceUsed
             // 
@@ -389,14 +425,22 @@
             this.cmbServiceUsed.Location = new System.Drawing.Point(224, 263);
             this.cmbServiceUsed.Name = "cmbServiceUsed";
             this.cmbServiceUsed.Size = new System.Drawing.Size(180, 21);
+<<<<<<< HEAD
             this.cmbServiceUsed.TabIndex = 6;
+=======
+            this.cmbServiceUsed.TabIndex = 14;
+>>>>>>> origin/master
             // 
             // btnOrder
             // 
             this.btnOrder.Location = new System.Drawing.Point(617, 290);
             this.btnOrder.Name = "btnOrder";
             this.btnOrder.Size = new System.Drawing.Size(109, 23);
+<<<<<<< HEAD
             this.btnOrder.TabIndex = 11;
+=======
+            this.btnOrder.TabIndex = 2;
+>>>>>>> origin/master
             this.btnOrder.Text = "Đặt dịch vụ";
             this.btnOrder.UseSelectable = true;
             this.btnOrder.Click += new System.EventHandler(this.btnOrder_Click);

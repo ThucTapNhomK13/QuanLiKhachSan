@@ -16,7 +16,11 @@ namespace GUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new Form_Login());
+=======
+            Application.Run(new Form_KhachHang());
+>>>>>>> origin/master
         }
     }
 }

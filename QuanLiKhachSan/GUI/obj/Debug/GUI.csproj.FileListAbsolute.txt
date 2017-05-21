@@ -1,4 +1,5 @@
 C:\Users\LeMinh\Desktop\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+<<<<<<< HEAD
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.Properties.Resources.resources
@@ -20,3 +21,14 @@ C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\DTO_
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\bin\Debug\DAO.pdb
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.exe
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\GUI\obj\Debug\GUI.pdb
+=======
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_HoaDon.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_KhachHang.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Phong.resources
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_QuanLiKhachHang.resources
+C:\Users\MienAnh\Downloads\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+>>>>>>> origin/master

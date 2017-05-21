@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ﻿using MetroFramework.Forms;
 using System;
+=======
+﻿using System;
+>>>>>>> origin/master
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,10 +12,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+<<<<<<< HEAD
 
 using BUS;
 using DTO_Model;
 
+=======
+using MetroFramework.Forms;
+>>>>>>> origin/master
 
 namespace GUI
 {
@@ -21,6 +29,7 @@ namespace GUI
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         void setNull()
         {
@@ -68,5 +77,7 @@ namespace GUI
         {
             Application.Exit();
         }
+=======
+>>>>>>> origin/master
     }
 }

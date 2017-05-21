@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
 using System.Data;
 using System.Data.SqlClient;
 
@@ -10,7 +14,12 @@ namespace DAO
 {
     public class Connector
     {
+<<<<<<< HEAD
         public string strConn = @"Data Source=MRKCUONG\MKCUONG;Initial Catalog=QuanLiKhachSan;Integrated Security=True";
+=======
+        public string strConn = @"Data Source=LEMINH-PC\LEMINHSQLEXPRESS;Initial Catalog=QuanLiKhachSan;Integrated Security=True";
+
+>>>>>>> origin/master
         private SqlCommand cmd;
         private SqlConnection conn;
         private DataTable tbl;
@@ -133,6 +142,9 @@ namespace DAO
             return tbl;
         }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
     }
 }

@@ -12,7 +12,10 @@ using System.Windows.Forms;
 using BUS;
 using DTO_Model;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 namespace GUI
 {
     public partial class Form_HoaDon : MetroForm

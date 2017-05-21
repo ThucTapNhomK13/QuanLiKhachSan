@@ -1,0 +1,5 @@
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.dll
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.pdb
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.csprojResolveAssemblyReference.cache
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.dll
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.pdb

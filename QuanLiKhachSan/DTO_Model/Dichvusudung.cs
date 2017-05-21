@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DTO_Model
 {
+<<<<<<< HEAD
     public class Dichvusudung
     {
         public string makhachhang { get; set; }
@@ -17,5 +18,9 @@ namespace DTO_Model
             this.madv = madv;
             this.soluong = soluong;          
         }
+=======
+    class Dichvusudung
+    {
+>>>>>>> origin/master
     }
 }

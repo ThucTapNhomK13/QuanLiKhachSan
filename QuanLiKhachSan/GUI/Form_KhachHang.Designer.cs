@@ -84,7 +84,11 @@
             this.txtName.SelectionStart = 0;
             this.txtName.ShortcutsEnabled = true;
             this.txtName.Size = new System.Drawing.Size(181, 23);
+<<<<<<< HEAD
             this.txtName.TabIndex = 0;
+=======
+            this.txtName.TabIndex = 1;
+>>>>>>> origin/master
             this.txtName.UseSelectable = true;
             this.txtName.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtName.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -162,7 +166,11 @@
             this.txtTel.SelectionStart = 0;
             this.txtTel.ShortcutsEnabled = true;
             this.txtTel.Size = new System.Drawing.Size(180, 23);
+<<<<<<< HEAD
             this.txtTel.TabIndex = 4;
+=======
+            this.txtTel.TabIndex = 1;
+>>>>>>> origin/master
             this.txtTel.UseSelectable = true;
             this.txtTel.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtTel.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -173,7 +181,11 @@
             this.rbdMale.Location = new System.Drawing.Point(554, 194);
             this.rbdMale.Name = "rbdMale";
             this.rbdMale.Size = new System.Drawing.Size(49, 15);
+<<<<<<< HEAD
             this.rbdMale.TabIndex = 6;
+=======
+            this.rbdMale.TabIndex = 2;
+>>>>>>> origin/master
             this.rbdMale.Text = "Nam";
             this.rbdMale.UseSelectable = true;
             // 
@@ -183,7 +195,11 @@
             this.rbdFemale.Location = new System.Drawing.Point(666, 194);
             this.rbdFemale.Name = "rbdFemale";
             this.rbdFemale.Size = new System.Drawing.Size(39, 15);
+<<<<<<< HEAD
             this.rbdFemale.TabIndex = 7;
+=======
+            this.rbdFemale.TabIndex = 2;
+>>>>>>> origin/master
             this.rbdFemale.Text = "Nữ";
             this.rbdFemale.UseSelectable = true;
             // 
@@ -193,7 +209,11 @@
             this.btnInserts.Location = new System.Drawing.Point(416, 288);
             this.btnInserts.Name = "btnInserts";
             this.btnInserts.Size = new System.Drawing.Size(143, 34);
+<<<<<<< HEAD
             this.btnInserts.TabIndex = 9;
+=======
+            this.btnInserts.TabIndex = 3;
+>>>>>>> origin/master
             this.btnInserts.Text = "Order";
             this.btnInserts.UseVisualStyleBackColor = true;
             this.btnInserts.Click += new System.EventHandler(this.btnInserts_Click);
@@ -204,7 +224,11 @@
             this.btnCanel.Location = new System.Drawing.Point(582, 288);
             this.btnCanel.Name = "btnCanel";
             this.btnCanel.Size = new System.Drawing.Size(142, 34);
+<<<<<<< HEAD
             this.btnCanel.TabIndex = 10;
+=======
+            this.btnCanel.TabIndex = 3;
+>>>>>>> origin/master
             this.btnCanel.Text = "Back";
             this.btnCanel.UseVisualStyleBackColor = true;
             this.btnCanel.Click += new System.EventHandler(this.btnCanel_Click);
@@ -222,7 +246,11 @@
             this.metroLabel5.AutoSize = true;
             this.metroLabel5.Location = new System.Drawing.Point(36, 190);
             this.metroLabel5.Name = "metroLabel5";
+<<<<<<< HEAD
             this.metroLabel5.Size = new System.Drawing.Size(61, 19);
+=======
+            this.metroLabel5.Size = new System.Drawing.Size(63, 19);
+>>>>>>> origin/master
             this.metroLabel5.TabIndex = 0;
             this.metroLabel5.Text = "Trả trước";
             // 
@@ -251,7 +279,11 @@
             this.txtPayments.SelectionStart = 0;
             this.txtPayments.ShortcutsEnabled = true;
             this.txtPayments.Size = new System.Drawing.Size(181, 23);
+<<<<<<< HEAD
             this.txtPayments.TabIndex = 2;
+=======
+            this.txtPayments.TabIndex = 1;
+>>>>>>> origin/master
             this.txtPayments.UseSelectable = true;
             this.txtPayments.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtPayments.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -272,7 +304,11 @@
             this.dtpDateOrder.MinimumSize = new System.Drawing.Size(0, 29);
             this.dtpDateOrder.Name = "dtpDateOrder";
             this.dtpDateOrder.Size = new System.Drawing.Size(181, 29);
+<<<<<<< HEAD
             this.dtpDateOrder.TabIndex = 3;
+=======
+            this.dtpDateOrder.TabIndex = 4;
+>>>>>>> origin/master
             // 
             // dtpGiveBack
             // 
@@ -281,7 +317,11 @@
             this.dtpGiveBack.MinimumSize = new System.Drawing.Size(0, 29);
             this.dtpGiveBack.Name = "dtpGiveBack";
             this.dtpGiveBack.Size = new System.Drawing.Size(180, 29);
+<<<<<<< HEAD
             this.dtpGiveBack.TabIndex = 8;
+=======
+            this.dtpGiveBack.TabIndex = 4;
+>>>>>>> origin/master
             // 
             // metroLabel7
             // 
@@ -306,7 +346,11 @@
             this.metroLabel4.AutoSize = true;
             this.metroLabel4.Location = new System.Drawing.Point(428, 148);
             this.metroLabel4.Name = "metroLabel4";
+<<<<<<< HEAD
             this.metroLabel4.Size = new System.Drawing.Size(56, 19);
+=======
+            this.metroLabel4.Size = new System.Drawing.Size(58, 19);
+>>>>>>> origin/master
             this.metroLabel4.TabIndex = 0;
             this.metroLabel4.Text = "Trang bị";
             // 

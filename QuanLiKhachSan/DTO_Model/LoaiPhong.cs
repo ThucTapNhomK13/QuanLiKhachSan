@@ -13,7 +13,11 @@ namespace DTO_Model
         public string trangbi { get; set; }
         public int soluong { get; set; }
         public string tinhtrang { get; set; }
+<<<<<<< HEAD
         public LoaiPhong(int maloaiphong, string tenloaiphong, string trangbi , int soluong , string tinhtrang)
+=======
+        public LoaiPhong(int maloaiphong, string tenloaiphong, string trangbi, int soluong, string tinhtrang)
+>>>>>>> origin/master
         {
             this.maloaiphong = maloaiphong;
             this.tenloaiphpng = tenloaiphong;
@@ -22,4 +26,8 @@ namespace DTO_Model
             this.tinhtrang = tinhtrang;
         }
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/master

@@ -11,7 +11,10 @@ using System.Windows.Forms;
 using DTO_Model;
 using BUS;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 namespace GUI
 {
     public partial class Form_QuanLiKhachHang : MetroForm

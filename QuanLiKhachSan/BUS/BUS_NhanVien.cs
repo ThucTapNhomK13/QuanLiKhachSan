@@ -4,15 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+<<<<<<< HEAD
 using DAO;
 using DTO_Model;
 using System.Data;
 using System.Data.SqlClient;
 
+=======
+>>>>>>> origin/master
 namespace BUS
 {
     public class BUS_NhanVien
     {
+<<<<<<< HEAD
         Connector connector = null;
 
         public BUS_NhanVien()
@@ -86,5 +90,7 @@ namespace BUS
             }
             return true;
         }
+=======
+>>>>>>> origin/master
     }
 }
