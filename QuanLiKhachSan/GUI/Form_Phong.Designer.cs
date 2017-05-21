@@ -64,7 +64,7 @@
             this.btnOrder.Name = "btnOrder";
             this.btnOrder.Size = new System.Drawing.Size(75, 23);
             this.btnOrder.TabIndex = 6;
-            this.btnOrder.Text = "Order";
+            this.btnOrder.Text = "Đặt phòng";
             this.btnOrder.UseSelectable = true;
             this.btnOrder.Click += new System.EventHandler(this.btnOrder_Click);
             // 
@@ -259,7 +259,7 @@
             this.btnGiveBack.Name = "btnGiveBack";
             this.btnGiveBack.Size = new System.Drawing.Size(75, 23);
             this.btnGiveBack.TabIndex = 7;
-            this.btnGiveBack.Text = "Give back";
+            this.btnGiveBack.Text = "Thanh toán";
             this.btnGiveBack.UseSelectable = true;
             this.btnGiveBack.Click += new System.EventHandler(this.btnGiveBack_Click);
             // 
@@ -299,7 +299,7 @@
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(75, 23);
             this.btnSearch.TabIndex = 10;
-            this.btnSearch.Text = "Search";
+            this.btnSearch.Text = "Tìm kiếm";
             this.btnSearch.UseSelectable = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
@@ -321,7 +321,7 @@
             this.btnLoaddata.Name = "btnLoaddata";
             this.btnLoaddata.Size = new System.Drawing.Size(75, 23);
             this.btnLoaddata.TabIndex = 8;
-            this.btnLoaddata.Text = "Load data";
+            this.btnLoaddata.Text = "Tải dữ liệu";
             this.btnLoaddata.UseSelectable = true;
             this.btnLoaddata.Click += new System.EventHandler(this.btnLoaddata_Click);
             // 

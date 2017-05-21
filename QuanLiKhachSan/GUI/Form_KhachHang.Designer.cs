@@ -194,7 +194,7 @@
             this.btnInserts.Name = "btnInserts";
             this.btnInserts.Size = new System.Drawing.Size(143, 34);
             this.btnInserts.TabIndex = 9;
-            this.btnInserts.Text = "Order";
+            this.btnInserts.Text = "Đặt phòng";
             this.btnInserts.UseVisualStyleBackColor = true;
             this.btnInserts.Click += new System.EventHandler(this.btnInserts_Click);
             // 
@@ -205,7 +205,7 @@
             this.btnCanel.Name = "btnCanel";
             this.btnCanel.Size = new System.Drawing.Size(142, 34);
             this.btnCanel.TabIndex = 10;
-            this.btnCanel.Text = "Back";
+            this.btnCanel.Text = "Quay lại";
             this.btnCanel.UseVisualStyleBackColor = true;
             this.btnCanel.Click += new System.EventHandler(this.btnCanel_Click);
             // 

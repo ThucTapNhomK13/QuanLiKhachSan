@@ -86,11 +86,11 @@
             // 
             // btnDelete
             // 
-            this.btnDelete.Location = new System.Drawing.Point(669, 405);
+            this.btnDelete.Location = new System.Drawing.Point(650, 405);
             this.btnDelete.Name = "btnDelete";
-            this.btnDelete.Size = new System.Drawing.Size(75, 23);
+            this.btnDelete.Size = new System.Drawing.Size(94, 23);
             this.btnDelete.TabIndex = 2;
-            this.btnDelete.Text = "Delete Bill";
+            this.btnDelete.Text = "Xóa hóa đơn";
             this.btnDelete.UseSelectable = true;
             this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
             // 

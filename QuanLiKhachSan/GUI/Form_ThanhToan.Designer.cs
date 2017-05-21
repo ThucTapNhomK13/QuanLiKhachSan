@@ -221,11 +221,11 @@
             // 
             // btnListBill
             // 
-            this.btnListBill.Location = new System.Drawing.Point(589, 291);
+            this.btnListBill.Location = new System.Drawing.Point(436, 291);
             this.btnListBill.Name = "btnListBill";
-            this.btnListBill.Size = new System.Drawing.Size(75, 23);
+            this.btnListBill.Size = new System.Drawing.Size(120, 23);
             this.btnListBill.TabIndex = 7;
-            this.btnListBill.Text = "List Bill";
+            this.btnListBill.Text = "Danh sách hóa đơn";
             this.btnListBill.UseSelectable = true;
             this.btnListBill.Click += new System.EventHandler(this.btnListBill_Click);
             // 
@@ -235,17 +235,17 @@
             this.btnCanel.Name = "btnCanel";
             this.btnCanel.Size = new System.Drawing.Size(75, 23);
             this.btnCanel.TabIndex = 8;
-            this.btnCanel.Text = "Canel";
+            this.btnCanel.Text = "Thoát";
             this.btnCanel.UseSelectable = true;
             this.btnCanel.Click += new System.EventHandler(this.btnCanel_Click);
             // 
             // btnPay
             // 
-            this.btnPay.Location = new System.Drawing.Point(499, 291);
+            this.btnPay.Location = new System.Drawing.Point(579, 291);
             this.btnPay.Name = "btnPay";
             this.btnPay.Size = new System.Drawing.Size(75, 23);
             this.btnPay.TabIndex = 6;
-            this.btnPay.Text = "Pay";
+            this.btnPay.Text = "Thanh toán";
             this.btnPay.UseSelectable = true;
             this.btnPay.Click += new System.EventHandler(this.btnPay_Click);
             // 

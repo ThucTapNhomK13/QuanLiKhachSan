@@ -139,19 +139,27 @@ namespace GUI
     
         private void btnOrder_Click(object sender, EventArgs e)
         {
-            Form_KhachHang.classroomid = dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[0].Value.ToString();
-            Form_KhachHang frm_kh = new Form_KhachHang();
-            frm_kh.ShowDialog();
+            if (dataGridView1.CurrentRow.Index > 0)
+            {
+                Form_KhachHang.classroomid = dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[0].Value.ToString();
+                Form_KhachHang frm_kh = new Form_KhachHang();
+                frm_kh.ShowDialog();
+            }
+            
         }
 
         private void btnGiveBack_Click(object sender, EventArgs e)
         {
-            Form_ThanhToan.item = new List<string>();
-            Form_ThanhToan.item.Add(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[0].Value.ToString());
-            Form_ThanhToan.item.Add(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[2].Value.ToString());
-            Form_ThanhToan.item.Add(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[4].Value.ToString());
-            Form_ThanhToan frm_pay = new Form_ThanhToan();
-            frm_pay.ShowDialog();
+            if (dataGridView1.CurrentRow.Index > 0)
+            {
+                Form_ThanhToan.item = new List<string>();
+                Form_ThanhToan.item.Add(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[0].Value.ToString());
+                Form_ThanhToan.item.Add(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[2].Value.ToString());
+                Form_ThanhToan.item.Add(dataGridView1.Rows[dataGridView1.CurrentRow.Index].Cells[4].Value.ToString());
+                Form_ThanhToan frm_pay = new Form_ThanhToan();
+                frm_pay.ShowDialog();
+            }
+            
         }
 
         private void btnLoaddata_Click(object sender, EventArgs e)
