@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DDC14255-AFC6-49EB-A100-963C1051BAB5}</ProjectGuid>
+    <ProjectGuid>{360A4300-51F2-4B74-BC56-DDE554892496}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GUI</RootNamespace>
@@ -33,14 +33,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="MetroFramework">
-      <HintPath>..\..\QuanLiKhachSan2\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="MetroFramework.Design">
-      <HintPath>..\..\QuanLiKhachSan2\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="MetroFramework.Fonts">
-      <HintPath>..\..\QuanLiKhachSan2\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -58,7 +61,7 @@
     <Compile Include="Form_HoaDon.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_HoaDon.Designer.cs">
+    <Compile Include="Form_HoaDon.designer.cs">
       <DependentUpon>Form_HoaDon.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_KhachHang.cs">
@@ -70,33 +73,36 @@
     <Compile Include="Form_Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_Login.Designer.cs">
+    <Compile Include="Form_Login.designer.cs">
       <DependentUpon>Form_Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Main.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_Main.Designer.cs">
+    <Compile Include="Form_Main.designer.cs">
       <DependentUpon>Form_Main.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Phong.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_Phong.Designer.cs">
+    <Compile Include="Form_Phong.designer.cs">
       <DependentUpon>Form_Phong.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_QuanLiKhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_QuanLiKhachHang.Designer.cs">
+    <Compile Include="Form_QuanLiKhachHang.designer.cs">
       <DependentUpon>Form_QuanLiKhachHang.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_ThanhToan.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form_ThanhToan.Designer.cs">
+    <Compile Include="Form_ThanhToan.designer.cs">
       <DependentUpon>Form_ThanhToan.cs</DependentUpon>
     </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form_HoaDon.resx">
@@ -120,20 +126,35 @@
     <EmbeddedResource Include="Form_ThanhToan.resx">
       <DependentUpon>Form_ThanhToan.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\GUI.Form_HoaDon.resources" />
+    <EmbeddedResource Include="obj\Debug\GUI.Form_KhachHang.resources" />
+    <EmbeddedResource Include="obj\Debug\GUI.Form_Login.resources" />
+    <EmbeddedResource Include="obj\Debug\GUI.Form_Main.resources" />
+    <EmbeddedResource Include="obj\Debug\GUI.Form_Phong.resources" />
+    <EmbeddedResource Include="obj\Debug\GUI.Form_QuanLiKhachHang.resources" />
+    <EmbeddedResource Include="obj\Debug\GUI.Form_ThanhToan.resources" />
+    <EmbeddedResource Include="obj\Debug\GUI.Properties.Resources.resources" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
+    <None Include="bin\Debug\GUI.exe.config" />
+    <None Include="bin\Debug\GUI.vshost.exe.config" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\GUI.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\GUI.csprojResolveAssemblyReference.cache" />
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -145,22 +166,37 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BUS\BUS.csproj">
-      <Project>{8f94d8d2-366e-466d-a561-38210c5ae93d}</Project>
+      <Project>{8142ba12-ecda-4591-bc70-c40f51f92d25}</Project>
       <Name>BUS</Name>
     </ProjectReference>
     <ProjectReference Include="..\DTO_Model\DTO_Model.csproj">
-      <Project>{0b834f1b-b086-4039-af09-12e0a62fa806}</Project>
+      <Project>{1927b59e-d4b6-4fb9-8f20-809723092950}</Project>
       <Name>DTO_Model</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\LoginRed.jpg" />
+    <Content Include="Anh\class.png" />
+    <Content Include="Anh\icon_402-128.png" />
+    <Content Include="Anh\LoginRed.jpg" />
+    <Content Include="bin\Debug\BUS.dll" />
+    <Content Include="bin\Debug\BUS.pdb" />
+    <Content Include="bin\Debug\DAO.dll" />
+    <Content Include="bin\Debug\DAO.pdb" />
+    <Content Include="bin\Debug\DTO_Model.dll" />
+    <Content Include="bin\Debug\DTO_Model.pdb" />
+    <Content Include="bin\Debug\GUI.exe" />
+    <Content Include="bin\Debug\GUI.pdb" />
+    <Content Include="bin\Debug\GUI.vshost.exe" />
+    <Content Include="bin\Debug\MetroFramework.Design.dll" />
+    <Content Include="bin\Debug\MetroFramework.dll" />
+    <Content Include="bin\Debug\MetroFramework.Fonts.dll" />
+    <Content Include="obj\Debug\GUI.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\GUI.exe" />
+    <Content Include="obj\Debug\GUI.pdb" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\class.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\icon_402-128.png" />
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\TempPE\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

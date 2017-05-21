@@ -1,12 +1,5 @@
-C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.exe.config
-C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.exe
-C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.pdb
-C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.exe
-C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.pdb
-C:\Users\LeMinh\documents\visual studio 2015\Projects\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.csprojResolveAssemblyReference.cache
-C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.exe.config
-C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.exe
-C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.pdb
-C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.csprojResolveAssemblyReference.cache
-C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.exe
-C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.pdb
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.dll
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DTO_Model\bin\Debug\DTO_Model.pdb
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.csprojResolveAssemblyReference.cache
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.dll
+C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DTO_Model\obj\Debug\DTO_Model.pdb

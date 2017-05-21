@@ -58,7 +58,6 @@
             // 
             this.metroLink1.FontSize = MetroFramework.MetroLinkSize.Tall;
             this.metroLink1.FontWeight = MetroFramework.MetroLinkWeight.Regular;
-            this.metroLink1.Image = global::GUI.Properties.Resources.icon_402_128;
             this.metroLink1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.metroLink1.ImageSize = 40;
             this.metroLink1.Location = new System.Drawing.Point(27, 73);
@@ -106,6 +105,7 @@
             this.Name = "Form_Main";
             this.Padding = new System.Windows.Forms.Padding(23, 69, 23, 23);
             this.Text = "Trang chủ";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form_Main_FormClosing);
             this.Load += new System.EventHandler(this.Form_Main_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
