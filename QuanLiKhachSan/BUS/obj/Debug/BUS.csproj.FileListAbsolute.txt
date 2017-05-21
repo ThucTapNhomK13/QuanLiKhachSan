@@ -1,0 +1,20 @@
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\BUS\bin\Debug\BUS.exe.config
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\BUS\bin\Debug\BUS.exe
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\BUS\bin\Debug\BUS.pdb
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\BUS\bin\Debug\DAO.exe
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\BUS\bin\Debug\DTO_Model.exe
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\BUS\bin\Debug\DAO.pdb
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\BUS\bin\Debug\DTO_Model.pdb
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\BUS\obj\Debug\BUS.exe
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\BUS\obj\Debug\BUS.pdb
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\BUS\bin\Debug\BUS.exe.config
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\BUS\bin\Debug\BUS.exe
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\BUS\bin\Debug\BUS.pdb
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\BUS\bin\Debug\DAO.exe
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\BUS\bin\Debug\DTO_Model.exe
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\BUS\bin\Debug\DAO.pdb
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\BUS\bin\Debug\DTO_Model.pdb
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\BUS\obj\Debug\BUS.exe
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\BUS\obj\Debug\BUS.pdb

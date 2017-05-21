@@ -1,1 +1,48 @@
-C:\Users\LeMinh\Desktop\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+c:\users\leminh\documents\visual studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\GUI.exe
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\GUI.pdb
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\BUS.exe
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.exe
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\MetroFramework.dll
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\DAO.exe
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\BUS.pdb
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.pdb
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\bin\Debug\DAO.pdb
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.exe
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.pdb
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Login.resources
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Main.resources
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Phong.resources
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_KhachHang.resources
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_QuanLiKhachHang.resources
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_HoaDon.resources
+C:\Users\LeMinh\Documents\Visual Studio 2015\Projects\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_ThanhToan.resources
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.exe
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.pdb
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\bin\Debug\GUI.exe
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\bin\Debug\GUI.pdb
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\bin\Debug\BUS.exe
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.exe
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\bin\Debug\DAO.exe
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\bin\Debug\BUS.pdb
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\bin\Debug\DTO_Model.pdb
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\bin\Debug\DAO.pdb
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_HoaDon.resources
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_KhachHang.resources
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Login.resources
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Main.resources
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_Phong.resources
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_QuanLiKhachHang.resources
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.Form_ThanhToan.resources
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\mkcuong\Downloads\C# Form\QuanLiKhachSan\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\bin\Debug\GUI.exe.config
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.exe
+C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\GUI\obj\Debug\GUI.pdb
