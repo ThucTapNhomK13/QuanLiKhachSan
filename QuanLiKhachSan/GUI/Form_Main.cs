@@ -7,12 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MetroFramework.Forms;
 
 namespace GUI
 {
-    public partial class fAdmin : Form
+    public partial class Form_Main : MetroForm
     {
-        public fAdmin()
+        public Form_Main()
         {
             InitializeComponent();
         }

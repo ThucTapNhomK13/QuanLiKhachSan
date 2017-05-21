@@ -7,19 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MetroFramework.Forms;
 
 namespace GUI
 {
-    public partial class fAccountProfile : Form
+    public partial class Form_HoaDon : MetroForm
     {
-        public fAccountProfile()
+        public Form_HoaDon()
         {
             InitializeComponent();
-        }
-
-        private void btnExti_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
     }
 }
