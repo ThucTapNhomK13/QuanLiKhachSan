@@ -61,61 +61,26 @@
     <Compile Include="Form_HoaDon.cs">
       <SubType>Form</SubType>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="Form_HoaDon.designer.cs">
-=======
-    <Compile Include="Form_HoaDon.Designer.cs">
->>>>>>> origin/master
       <DependentUpon>Form_HoaDon.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_KhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="Form_KhachHang.Designer.cs">
-=======
-    <Compile Include="Form_KhachHang.designer.cs">
->>>>>>> origin/master
       <DependentUpon>Form_KhachHang.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Login.cs">
       <SubType>Form</SubType>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="Form_Login.designer.cs">
-=======
-    <Compile Include="Form_Login.Designer.cs">
->>>>>>> origin/master
       <DependentUpon>Form_Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Form_Main.cs">
       <SubType>Form</SubType>
     </Compile>
-<<<<<<< HEAD
     <Compile Include="Form_Main.designer.cs">
       <DependentUpon>Form_Main.cs</DependentUpon>
-=======
-    <Compile Include="Form_Main.Designer.cs">
-      <DependentUpon>Form_Main.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form_Phong.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form_Phong.Designer.cs">
-      <DependentUpon>Form_Phong.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form_QuanLiKhachHang.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form_QuanLiKhachHang.designer.cs">
-      <DependentUpon>Form_QuanLiKhachHang.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Form_ThanhToan.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form_ThanhToan.Designer.cs">
-      <DependentUpon>Form_ThanhToan.cs</DependentUpon>
->>>>>>> origin/master
     </Compile>
     <Compile Include="Form_Phong.cs">
       <SubType>Form</SubType>
@@ -146,22 +111,18 @@
     <EmbeddedResource Include="Form_KhachHang.resx">
       <DependentUpon>Form_KhachHang.cs</DependentUpon>
     </EmbeddedResource>
-<<<<<<< HEAD
     <EmbeddedResource Include="Form_Login.resx">
       <DependentUpon>Form_Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Main.resx">
       <DependentUpon>Form_Main.cs</DependentUpon>
     </EmbeddedResource>
-=======
->>>>>>> origin/master
     <EmbeddedResource Include="Form_Phong.resx">
       <DependentUpon>Form_Phong.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_QuanLiKhachHang.resx">
       <DependentUpon>Form_QuanLiKhachHang.cs</DependentUpon>
     </EmbeddedResource>
-<<<<<<< HEAD
     <EmbeddedResource Include="Form_ThanhToan.resx">
       <DependentUpon>Form_ThanhToan.cs</DependentUpon>
     </EmbeddedResource>
@@ -173,26 +134,17 @@
     <EmbeddedResource Include="obj\Debug\GUI.Form_QuanLiKhachHang.resources" />
     <EmbeddedResource Include="obj\Debug\GUI.Form_ThanhToan.resources" />
     <EmbeddedResource Include="obj\Debug\GUI.Properties.Resources.resources" />
-=======
->>>>>>> origin/master
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-<<<<<<< HEAD
     <None Include="bin\Debug\GUI.exe.config" />
     <None Include="bin\Debug\GUI.vshost.exe.config" />
     <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
     <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
     <None Include="obj\Debug\GUI.csproj.GenerateResource.Cache" />
     <None Include="obj\Debug\GUI.csprojResolveAssemblyReference.cache" />
-=======
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
->>>>>>> origin/master
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -214,24 +166,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BUS\BUS.csproj">
-<<<<<<< HEAD
       <Project>{8142ba12-ecda-4591-bc70-c40f51f92d25}</Project>
       <Name>BUS</Name>
     </ProjectReference>
     <ProjectReference Include="..\DTO_Model\DTO_Model.csproj">
       <Project>{1927b59e-d4b6-4fb9-8f20-809723092950}</Project>
-=======
-      <Project>{fb058b69-364c-4df8-b7db-7ef513438fc3}</Project>
-      <Name>BUS</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\DTO_Model\DTO_Model.csproj">
-      <Project>{30d1a71c-c185-4d8f-8bef-608405f1ad87}</Project>
->>>>>>> origin/master
       <Name>DTO_Model</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
     <Content Include="Anh\class.png" />
     <Content Include="Anh\icon_402-128.png" />
     <Content Include="Anh\LoginRed.jpg" />
@@ -254,11 +197,6 @@
   <ItemGroup>
     <Folder Include="bin\Release\" />
     <Folder Include="obj\Debug\TempPE\" />
-=======
-    <Content Include="Resources\class.png" />
-    <Content Include="Resources\icon_402-128.png" />
-    <Content Include="Resources\LoginRed.jpg" />
->>>>>>> origin/master
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

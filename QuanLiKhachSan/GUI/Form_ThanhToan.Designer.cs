@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-<<<<<<< HEAD
             this.dtpDate = new MetroFramework.Controls.MetroDateTime();
             this.metroLabel6 = new MetroFramework.Controls.MetroLabel();
             this.metroLabel4 = new MetroFramework.Controls.MetroLabel();
@@ -344,13 +343,5 @@
         private MetroFramework.Controls.MetroTextBox txtNameCustomer;
         private MetroFramework.Controls.MetroLabel metroLabel7;
         private MetroFramework.Controls.MetroLabel labIdroom;
-=======
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form_ThanhToan";
-        }
-
-        #endregion
->>>>>>> origin/master
     }
 }

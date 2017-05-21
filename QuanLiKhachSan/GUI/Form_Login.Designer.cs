@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-<<<<<<< HEAD
             this.txtUser = new MetroFramework.Controls.MetroTextBox();
             this.btnLogin = new System.Windows.Forms.Button();
             this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
@@ -185,13 +184,3 @@
     }
 }
 
-=======
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form_Login";
-        }
-
-        #endregion
-    }
-}
->>>>>>> origin/master

@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DAO\bin\Debug\DAO.dll
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DAO\bin\Debug\DAO.pdb
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DAO\obj\Debug\DAO.dll
 C:\Users\mkcuong\Desktop\QuanLiKhachSan-master\QuanLiKhachSan\DAO\obj\Debug\DAO.pdb
-=======
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\DAO\bin\Debug\DAO.dll
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\DAO\bin\Debug\DAO.pdb
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\DAO\obj\Debug\DAO.dll
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\DAO\obj\Debug\DAO.pdb
->>>>>>> origin/master

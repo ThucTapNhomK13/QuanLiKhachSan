@@ -4,11 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-<<<<<<< HEAD
     <ProjectGuid>{8142BA12-ECDA-4591-BC70-C40F51F92D25}</ProjectGuid>
-=======
-    <ProjectGuid>{FB058B69-364C-4DF8-B7DB-7EF513438FC3}</ProjectGuid>
->>>>>>> origin/master
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BUS</RootNamespace>
@@ -53,19 +49,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DAO\DAO.csproj">
-<<<<<<< HEAD
       <Project>{2357fe68-6bb1-4988-acc9-5f59aec29133}</Project>
       <Name>DAO</Name>
     </ProjectReference>
     <ProjectReference Include="..\DTO_Model\DTO_Model.csproj">
       <Project>{1927b59e-d4b6-4fb9-8f20-809723092950}</Project>
-=======
-      <Project>{1214c01b-ab76-4e86-ab61-3841af03ab04}</Project>
-      <Name>DAO</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\DTO_Model\DTO_Model.csproj">
-      <Project>{30d1a71c-c185-4d8f-8bef-608405f1ad87}</Project>
->>>>>>> origin/master
       <Name>DTO_Model</Name>
     </ProjectReference>
   </ItemGroup>

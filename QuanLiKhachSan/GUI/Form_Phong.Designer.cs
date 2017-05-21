@@ -63,11 +63,7 @@
             this.btnOrder.Location = new System.Drawing.Point(58, 215);
             this.btnOrder.Name = "btnOrder";
             this.btnOrder.Size = new System.Drawing.Size(75, 23);
-<<<<<<< HEAD
             this.btnOrder.TabIndex = 6;
-=======
-            this.btnOrder.TabIndex = 2;
->>>>>>> origin/master
             this.btnOrder.Text = "Order";
             this.btnOrder.UseSelectable = true;
             this.btnOrder.Click += new System.EventHandler(this.btnOrder_Click);
@@ -97,11 +93,7 @@
             this.txtId.SelectionStart = 0;
             this.txtId.ShortcutsEnabled = true;
             this.txtId.Size = new System.Drawing.Size(84, 23);
-<<<<<<< HEAD
             this.txtId.TabIndex = 0;
-=======
-            this.txtId.TabIndex = 3;
->>>>>>> origin/master
             this.txtId.UseSelectable = true;
             this.txtId.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtId.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -140,11 +132,7 @@
             this.txtStage.SelectionStart = 0;
             this.txtStage.ShortcutsEnabled = true;
             this.txtStage.Size = new System.Drawing.Size(84, 23);
-<<<<<<< HEAD
             this.txtStage.TabIndex = 2;
-=======
-            this.txtStage.TabIndex = 3;
->>>>>>> origin/master
             this.txtStage.UseSelectable = true;
             this.txtStage.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtStage.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -183,11 +171,7 @@
             this.txtClassify.SelectionStart = 0;
             this.txtClassify.ShortcutsEnabled = true;
             this.txtClassify.Size = new System.Drawing.Size(84, 23);
-<<<<<<< HEAD
             this.txtClassify.TabIndex = 1;
-=======
-            this.txtClassify.TabIndex = 3;
->>>>>>> origin/master
             this.txtClassify.UseSelectable = true;
             this.txtClassify.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtClassify.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -265,11 +249,7 @@
             this.rbdDisenable.Location = new System.Drawing.Point(455, 142);
             this.rbdDisenable.Name = "rbdDisenable";
             this.rbdDisenable.Size = new System.Drawing.Size(57, 15);
-<<<<<<< HEAD
             this.rbdDisenable.TabIndex = 5;
-=======
-            this.rbdDisenable.TabIndex = 4;
->>>>>>> origin/master
             this.rbdDisenable.Text = "Đã đặt";
             this.rbdDisenable.UseSelectable = true;
             // 
@@ -278,11 +258,7 @@
             this.btnGiveBack.Location = new System.Drawing.Point(157, 215);
             this.btnGiveBack.Name = "btnGiveBack";
             this.btnGiveBack.Size = new System.Drawing.Size(75, 23);
-<<<<<<< HEAD
             this.btnGiveBack.TabIndex = 7;
-=======
-            this.btnGiveBack.TabIndex = 2;
->>>>>>> origin/master
             this.btnGiveBack.Text = "Give back";
             this.btnGiveBack.UseSelectable = true;
             this.btnGiveBack.Click += new System.EventHandler(this.btnGiveBack_Click);
@@ -312,11 +288,7 @@
             this.txtSerach.SelectionStart = 0;
             this.txtSerach.ShortcutsEnabled = true;
             this.txtSerach.Size = new System.Drawing.Size(213, 23);
-<<<<<<< HEAD
             this.txtSerach.TabIndex = 9;
-=======
-            this.txtSerach.TabIndex = 3;
->>>>>>> origin/master
             this.txtSerach.UseSelectable = true;
             this.txtSerach.WaterMarkColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
             this.txtSerach.WaterMarkFont = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Pixel);
@@ -326,11 +298,7 @@
             this.btnSearch.Location = new System.Drawing.Point(619, 215);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(75, 23);
-<<<<<<< HEAD
             this.btnSearch.TabIndex = 10;
-=======
-            this.btnSearch.TabIndex = 2;
->>>>>>> origin/master
             this.btnSearch.Text = "Search";
             this.btnSearch.UseSelectable = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
@@ -352,11 +320,7 @@
             this.btnLoaddata.Location = new System.Drawing.Point(256, 215);
             this.btnLoaddata.Name = "btnLoaddata";
             this.btnLoaddata.Size = new System.Drawing.Size(75, 23);
-<<<<<<< HEAD
             this.btnLoaddata.TabIndex = 8;
-=======
-            this.btnLoaddata.TabIndex = 2;
->>>>>>> origin/master
             this.btnLoaddata.Text = "Load data";
             this.btnLoaddata.UseSelectable = true;
             this.btnLoaddata.Click += new System.EventHandler(this.btnLoaddata_Click);

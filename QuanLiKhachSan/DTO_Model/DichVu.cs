@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace DTO_Model
 {
-<<<<<<< HEAD
     public class DichVu
     {
         public string madichvu { get; set; }
@@ -18,9 +17,5 @@ namespace DTO_Model
             this.tendichvu = tendichvu;
             this.gia = gia;
         }
-=======
-    class DichVu
-    {
->>>>>>> origin/master
     }
 }

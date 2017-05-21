@@ -4,11 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-<<<<<<< HEAD
     <ProjectGuid>{2357FE68-6BB1-4988-ACC9-5F59AEC29133}</ProjectGuid>
-=======
-    <ProjectGuid>{1214C01B-AB76-4E86-AB61-3841AF03AB04}</ProjectGuid>
->>>>>>> origin/master
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DAO</RootNamespace>

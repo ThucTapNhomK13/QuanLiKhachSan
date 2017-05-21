@@ -1,9 +1,0 @@
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\BUS\bin\Debug\BUS.dll
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\BUS\bin\Debug\BUS.pdb
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\BUS\bin\Debug\DAO.dll
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\BUS\bin\Debug\DTO_Model.dll
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\BUS\bin\Debug\DAO.pdb
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\BUS\bin\Debug\DTO_Model.pdb
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\BUS\obj\Debug\BUS.dll
-C:\Users\mkcuong\Documents\GitHub\TTNhom\QuanLiKhachSan\QuanLiKhachSan\BUS\obj\Debug\BUS.pdb

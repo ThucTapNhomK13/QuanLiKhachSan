@@ -4,18 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-<<<<<<< HEAD
 using DTO_Model;
 using DAO;
 using System.Data;
 
-=======
->>>>>>> origin/master
 namespace BUS
 {
     public class BUS_DichVu
     {
-<<<<<<< HEAD
         Connector connector = null;
 
         public BUS_DichVu()
@@ -103,7 +99,5 @@ namespace BUS
             }
             return true;
         }
-=======
->>>>>>> origin/master
     }
 }

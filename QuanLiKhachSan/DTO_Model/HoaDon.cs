@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace DTO_Model
 {
-<<<<<<< HEAD
     public class HoaDon
     {
         public string mahoadon { get; set; }
@@ -26,9 +25,5 @@ namespace DTO_Model
             this.trangthai = trangthai;
             this.makhachhang = makhachhang;
         }
-=======
-    class HoaDon
-    {
->>>>>>> origin/master
     }
 }
